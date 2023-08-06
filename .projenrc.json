@@ -1,4 +1,10 @@
 {
   "type": "@mikejgray/ovos-skill-projen.OVOSSkillProject",
-  "name": "projen-mycroft-example"
+  "name": "ci-test-skill",
+  "author": "AJ Jordan",
+  "authorHandle": "strugee",
+  "repositoryUrl": "https://github.com/strugee/ovos-skill-ci-test",
+  "skillClass": "Jellyfin",
+  "license": "GPL-2.0",
+  "skillLicenseTest": false
 }

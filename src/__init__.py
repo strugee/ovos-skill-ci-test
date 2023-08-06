@@ -13,6 +13,8 @@ class HelloWorldSkill(OVOSSkill):
 
         This is a good place to load and pre-process any data needed by your
         Skill, ideally after the super() call.
+
+        This is for a test PR
         """
         super().__init__(*args, **kwargs)
         self.learning = True
